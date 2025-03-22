@@ -37,7 +37,7 @@ Follow these steps to set up the environment:
 2. Navigate to the project directory.
 3. Run the script using:
     ```bash
-    python main.py
+    python autoML.py
     ```
 
 ## 🧪 Example Output
